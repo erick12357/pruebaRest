@@ -1,46 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T19:38:00.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ICvWfu-WVCIVEvuZFO_I" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T19:53:37.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="80HT7Gwd_kSU0b2XkfDu" version="13.10.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Us98_-_jEK8urPG3YS_f-1" value="ms-transacciones" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="560" width="140" height="80" as="geometry" />
+          <mxGeometry x="100" y="660" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Us98_-_jEK8urPG3YS_f-2" value="ms-inventario" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="560" y="560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Us98_-_jEK8urPG3YS_f-4" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.033;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Us98_-_jEK8urPG3YS_f-2" target="Us98_-_jEK8urPG3YS_f-8">
+        <mxCell id="Us98_-_jEK8urPG3YS_f-4" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us98_-_jEK8urPG3YS_f-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="610" as="sourcePoint" />
+            <mxPoint x="560" y="600" as="sourcePoint" />
             <mxPoint x="430" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us98_-_jEK8urPG3YS_f-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="430" width="50" height="50" as="geometry" />
+          <mxGeometry x="580" y="380" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Us98_-_jEK8urPG3YS_f-6" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us98_-_jEK8urPG3YS_f-5">
+        <mxCell id="Us98_-_jEK8urPG3YS_f-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="Us98_-_jEK8urPG3YS_f-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="605" y="560" as="sourcePoint" />
-            <mxPoint x="600" y="490" as="targetPoint" />
+            <mxPoint x="605" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Us98_-_jEK8urPG3YS_f-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="575" width="50" height="50" as="geometry" />
+          <mxGeometry x="370" y="575" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Us98_-_jEK8urPG3YS_f-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="145" y="430" width="50" height="50" as="geometry" />
+          <mxGeometry x="145" y="380" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Us98_-_jEK8urPG3YS_f-10" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.495;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Us98_-_jEK8urPG3YS_f-1" target="Us98_-_jEK8urPG3YS_f-9">
+        <mxCell id="Us98_-_jEK8urPG3YS_f-10" value="" style="endArrow=classic;html=1;exitX=0.495;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Us98_-_jEK8urPG3YS_f-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="590" as="sourcePoint" />
-            <mxPoint x="430" y="540" as="targetPoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Us98_-_jEK8urPG3YS_f-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Us98_-_jEK8urPG3YS_f-8">
+        <mxCell id="Us98_-_jEK8urPG3YS_f-12" value="API&amp;nbsp;&lt;br&gt;Inventario Consulta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="430" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-13" value="API&amp;nbsp;&lt;br&gt;Registro Transaccion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-18" value="" style="endArrow=none;dashed=1;html=1;exitX=1.006;exitY=0.473;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Us98_-_jEK8urPG3YS_f-1" target="Us98_-_jEK8urPG3YS_f-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="600" as="sourcePoint" />
-            <mxPoint x="360" y="600" as="targetPoint" />
+            <mxPoint x="470" y="630" as="sourcePoint" />
+            <mxPoint x="520" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="698" />
+              <mxPoint x="290" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-20" value="API&amp;nbsp;&lt;br&gt;Afectaciones Inventario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="625" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="560" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-22" value="Inventario&lt;br&gt;ES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-23" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Us98_-_jEK8urPG3YS_f-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="682" y="600" as="sourcePoint" />
+            <mxPoint x="610" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
