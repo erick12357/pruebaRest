@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T19:53:37.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="80HT7Gwd_kSU0b2XkfDu" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T19:59:11.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C11U1i3AmMMCKzTeTXYj" version="13.10.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="920" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,18 @@
             <mxPoint x="682" y="600" as="sourcePoint" />
             <mxPoint x="610" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="830" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Us98_-_jEK8urPG3YS_f-1" target="Us98_-_jEK8urPG3YS_f-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="770" as="sourcePoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Us98_-_jEK8urPG3YS_f-26" value="BD &lt;br&gt;Registro Transacciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
